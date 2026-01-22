@@ -1,5 +1,5 @@
 
-title: *Welcome to Keith's blog*
+*Welcome to Keith's blog*
 
 <h3>about me</h3>
 
