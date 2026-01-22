@@ -1,5 +1,5 @@
- title: 'Favorite-Games'
- date: '2026-01-22'
+ <p>Title: Favorite-Games</p>
+ <p>Date: 2026-01-22</p>
 
  <p>My favorite games are FPS, Story Driven, Realistic Simulator Games, and Horror Games</p>
 
